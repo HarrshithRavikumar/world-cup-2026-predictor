@@ -15,7 +15,7 @@ A Monte Carlo simulation engine that predicts the **FIFA World Cup 2026** winner
 
 ---
 
-## 🧠 How It Works
+## 🧠 How It Works:
 
 ### 1. Elo Rating System
 - Loads all international match results from **2019 onwards** (`data/results.csv`)
