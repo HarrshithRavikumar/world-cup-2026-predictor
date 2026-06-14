@@ -3,7 +3,7 @@
 A Monte Carlo simulation engine that predicts the **FIFA World Cup 2026** winner using an Elo rating system trained on real international match data since 2019 — with a live web app and Polymarket odds comparison built in.
 
 > **Live app →** [world-cup-2026-predictor.streamlit.app](https://world-cup-2026-predictor-k5u84j9ept7g9fvghwycws.streamlit.app)  
-> **Tournament dates:** June 11 – July 19, 2026 · USA, Canada, Mexico
+> **Tournament dates:** June 11 – July 19, 2026 · USA, Canada and Mexico
 
 ---
 
