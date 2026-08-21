@@ -1,4 +1,4 @@
-# 🏆 World Cup 2026 Predictor  
+# 🏆 World Cup 2026 Predictor   
  
 A Monte Carlo simulation engine that predicts the **FIFA World Cup 2026** winner using an Elo rating system trained on real international match data since 2019 — with a live web app and Polymarket odds comparison built in.
 
